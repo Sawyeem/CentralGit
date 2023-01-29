@@ -1,0 +1,13 @@
+# STUDENT INFORMATION PROGRAM
+
+Name = input("Enter Name:")
+Rollno = int(input("Enter Rollno:"))
+Percentage = float(input("Enter percentage:"))
+
+print("Name:",Name,)
+print("Rollno:",Rollno)
+print("Percentage:",Percentage)
+
+print(type(Name))
+print(type(Rollno))
+print(type(Percentage))
